@@ -545,9 +545,6 @@ nav ul li:hover{
     }
 }
 @media(max-width:460px){
-    /* .text-home{
-        margin-top: 150px;
-    } */
     .main{
         width: 61vw;
     }
@@ -571,9 +568,6 @@ nav ul li:hover{
     }
 }
 @media(max-width:370px){
-    /* .text-home{
-        margin-top: 110px;
-    } */
     .buttons{
         display: flex;
         flex-direction: column;
@@ -800,8 +794,8 @@ nav ul li:hover{
     border-width: 2px;
     border-left-color: #3586e8;
     border-top-color: #3586e8;
-    border-bottom-color: #36322f;
-    border-right-color: #36322f;
+    border-bottom-color: #2d2d39;
+    border-right-color: #2d2d39;
     width: 50px;
     content: "";
     height: 50px;
@@ -812,8 +806,8 @@ nav ul li:hover{
     right: 0;
     border-style: solid;
     border-width: 2px;
-    border-left-color: #36322f;
-    border-top-color: #36322f;
+    border-left-color: #2d2d39;
+    border-top-color: #2d2d39;
     border-bottom-color: #3586e8;
     border-right-color: #3586e8;
     width: 50px;
@@ -998,8 +992,8 @@ nav ul li:hover{
     border-width: 2px;
     border-left-color: #3586e8;
     border-top-color: #3586e8;
-    border-bottom-color: #36322f;
-    border-right-color: #36322f;
+    border-bottom-color: #2d2d39;
+    border-right-color: #2d2d39;
     width: 50px;
     display: block;
     content: "";
@@ -1011,8 +1005,8 @@ nav ul li:hover{
     right: 0;
     border-style: solid;
     border-width: 2px;
-    border-left-color: #36322f;
-    border-top-color: #36322f;
+    border-left-color: #2d2d39;
+    border-top-color: #2d2d39;
     border-bottom-color: #3586e8;
     border-right-color: #3586e8;
     display: block;
@@ -1416,8 +1410,8 @@ textarea{
     border-width: 2px;
     border-left-color: #3586e8;
     border-top-color: #3586e8;
-    border-bottom-color: #36322f;
-    border-right-color: #36322f;
+    border-bottom-color: #2d2d39;
+    border-right-color: #2d2d39;
     width: 50px;
     content: "";
     height: 50px;
@@ -1428,8 +1422,8 @@ textarea{
     right: 0;
     border-style: solid;
     border-width: 2px;
-    border-left-color: #36322f;
-    border-top-color: #36322f;
+    border-left-color: #2d2d39;
+    border-top-color: #2d2d39;
     border-bottom-color: #3586e8;
     border-right-color: #3586e8;
     width: 50px;
