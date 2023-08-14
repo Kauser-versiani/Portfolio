@@ -234,7 +234,7 @@ nav ul li:hover{
     display: table-cell;
     width: 100%;
     height: 100vh;
-    background-image: url(../assets/images/jared-brashier-6WPcf5D1XdA-unsplash.jpg);
+    background-image: url(../assets/images/home-img.jpg);
     background-size: cover !important;
     background-position: center center !important;
     background-repeat: no-repeat !important;
@@ -545,9 +545,9 @@ nav ul li:hover{
     }
 }
 @media(max-width:460px){
-    .text-home{
+    /* .text-home{
         margin-top: 150px;
-    }
+    } */
     .main{
         width: 61vw;
     }
@@ -571,9 +571,9 @@ nav ul li:hover{
     }
 }
 @media(max-width:370px){
-    .text-home{
+    /* .text-home{
         margin-top: 110px;
-    }
+    } */
     .buttons{
         display: flex;
         flex-direction: column;
